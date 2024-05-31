@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thalliaaline;
+- 👀 I’m interested in Analise_e_Desenvolvimento_de_Sistemas;
+- 🌱 I’m currently learning ABAP, Python & JavaScript;
+- 📫 I work with data analysis and development;
+- ⚡ Fun fact: graduated in mathematics
